@@ -1,8 +1,22 @@
 ---
-# the default layout is 'page'
+# The default layout for tabs is "page"
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 👋 Hello, I'm Givps
+
+Welcome to my personal blog!
+This blog is built with **Jekyll Theme Chirpy** and hosted via **GitHub Pages** 🚀.
+
+## ✨ About the Blog
+- 📚 Study notes
+- 💻 Coding experiments
+- 🌱 Daily life notes
+
+## 📫 Contact
+- ✉️ [Email](mailto:givps.com@gmail.com)
+- 🐙 [GitHub](https://github.com/givps)
+- ✈️ [Telegram](https://t.me/givps_com)
+
+Thanks for stopping by! 🙌
