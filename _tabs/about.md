@@ -9,7 +9,7 @@ order: 1
 Welcome to my personal website
 This blog is built with **Jekyll Theme Chirpy** and hosted via **GitHub Pages** 🚀.
 
-## ✨ About the Blog
+## ✨ About the website
 - 📚 Study notes
 - 💻 Coding experiments
 - 🌱 Daily life notes
