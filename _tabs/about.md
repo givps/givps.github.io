@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-# 👋 Hello, I'm Givps
+# 👋 Hello, I'm gilper0x
 
-Welcome to my personal blog!
+Welcome to my personal website
 This blog is built with **Jekyll Theme Chirpy** and hosted via **GitHub Pages** 🚀.
 
 ## ✨ About the Blog
