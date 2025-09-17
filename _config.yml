@@ -28,8 +28,8 @@ url: "https://givps.github.io"
 github:
   username: givps # change to your GitHub username
 
-telegram:
-  username: givpn_grup # change to your Twitter username
+#telegram:
+  #username: username # change to your Twitter username
 
 social:
   # Change to your full name.
