@@ -1,7 +1,6 @@
 #  The contact options.
 
 - type: github
-  url: https://github.com/givps
   icon: "fab fa-github"
   noblank: false
 
