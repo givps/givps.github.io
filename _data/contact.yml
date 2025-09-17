@@ -4,6 +4,7 @@
   icon: "fab fa-github"
 
 - type: telegram
+  url: https://t.me/givps_com
   icon: "fab fa-telegram"
 
 - type: email
