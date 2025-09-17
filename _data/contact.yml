@@ -14,7 +14,7 @@
   noblank: false # open link in current tab
 
 - name: Sitemap
-  url: https://givps.github.io/sitemap.xml
+  url: https://givps.com/sitemap.xml
   icon: "fas fa-sitemap"
   noblank: false
 
