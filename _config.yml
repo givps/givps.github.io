@@ -51,6 +51,7 @@ webmaster_verifications:
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
   facebook: # fill in your Facebook verification code
+  ```yaml
 highlighter: rouge
 code_block:
   copy_button: true
