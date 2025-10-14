@@ -1,28 +1,26 @@
-/* Tombol Copy */
 .copy-button {
   position: absolute;
   top: 0.5rem;
   right: 0.5rem;
   padding: 0.28rem 0.6rem;
   font-size: 0.75rem;
-  background-color: #334155;
   color: #fff;
   border: none;
   border-radius: 0.28rem;
   cursor: pointer;
-  transition: background-color 0.2s ease;
+  transition: background-color 0.3s ease, transform 0.2s ease;
   z-index: 10;
 }
+
 .copy-button:hover {
-  background-color: #1f2937;
+  transform: scale(1.05);
 }
 
-/* Feedback "Copied!" */
 .copy-feedback {
   position: absolute;
   top: -1.6rem;
   right: 0.5rem;
-  background-color: #059669;
+  background-color: #22c55e;
   color: #fff;
   padding: 0.22rem 0.5rem;
   border-radius: 0.25rem;
@@ -33,6 +31,7 @@
   transition: opacity 0.2s ease, transform 0.2s ease;
   z-index: 10;
 }
+
 .copy-feedback.show {
   opacity: 1;
   transform: translateY(0);
