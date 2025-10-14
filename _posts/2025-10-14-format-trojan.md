@@ -1,4 +1,5 @@
 ---
+layout: home
 title: "Trojan Formats"
 categories: [config]
 description: "Trojan configurations including GFW, WS, GO/WS, XTLS, and gRPC."
